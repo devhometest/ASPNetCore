@@ -1,0 +1,2 @@
+# ASPNetCore
+ASPNetCore.Service1
